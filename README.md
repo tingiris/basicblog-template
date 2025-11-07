@@ -6,6 +6,10 @@ A minimal Next.js (App Router) Markdown blog template.
 - Drafts are co-located using `draft_` filename prefix and are hidden in production
 - Static generation with simple `remark` → HTML pipeline
 
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/tingiris/basicblog-template)
+
 ## Quick start
 
 1. Copy `_basic-blog-template/` to a new project directory.
